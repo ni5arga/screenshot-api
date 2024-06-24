@@ -12,7 +12,7 @@ A simple API to capture screenshots of web pages using Puppeteer and Express.
 1. Clone the repository or download the source code.
 
    ```sh
-   git clone https://github.com/your-username/screenshot-api.git
+   git clone https://github.com/ni5arga/screenshot-api.git
    cd screenshot-api
    ```
 
